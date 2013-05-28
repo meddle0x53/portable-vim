@@ -15,3 +15,5 @@ Try it like this:
   :BundleInstall
 `````
 You can play with it adding and removing bundles from the VundeFile. They won't affect your vim configuration only the project one.
+
+Read the post at http://wp.me/p3pkn1-2f!
