@@ -1,0 +1,4 @@
+Bundle 'gmarik/vundle'
+
+Bundle 'tpope/vim-fugitive'
+Bundle 'The-NERD-tree'
